@@ -1,8 +1,10 @@
 package sample;
 
-public class Sample {
+public class Hello {
+
 	public static void main(String[] args) {
-		System.out.println("Hello, git!");
+		// TODO Auto-generated method stub
+
 	}
 
 }
